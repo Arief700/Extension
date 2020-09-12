@@ -10,5 +10,6 @@ Extensi yang saya pakai di Visual studio code
 9. Live Server
 10. Material Icon Theme
 11. open in browser
-12.Path Intellisense
+12. Path Intellisense
 13. Prettier
+14 . Beautify css/sass/scss/less
