@@ -1,0 +1,14 @@
+Extensi yang saya pakai di Visual studio code
+1. Auto Close Tag
+2. Auto Rename Tag
+3. Bracket Pair Colorizer
+4. CSS Peek
+5. ES7 React
+6. Highlight Matching Tag
+7. indent-rainbow
+8. IntelliSense for CSS class names in HTML
+9. Live Server
+10. Material Icon Theme
+11. open in browser
+12.Path Intellisense
+13. Prettier
